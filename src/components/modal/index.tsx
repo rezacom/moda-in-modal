@@ -25,8 +25,6 @@ const Modal = ({
   };
 
   const handleClose = (e: any) => {
-    console.log(e.target);
-    console.log(e.target.id);
     if (!e.target.closest(".modal__paper") || e.target.id === id) {
       setShow(false);
     }

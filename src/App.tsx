@@ -31,8 +31,8 @@ function App() {
                   <h1>424242</h1>
                 </Modal>
                 <Modal
-                  buttonTitle="Select light Colors"
-                  title="light Colors"
+                  buttonTitle="Select Dark Colors"
+                  title="Dark Colors"
                   id="modal23"
                   color="#3E2723"
                   buttonTextColor="#fff"
@@ -40,8 +40,8 @@ function App() {
                   <h1>3E2723</h1>
                 </Modal>
                 <Modal
-                  buttonTitle="Select other Colors"
-                  title="other Colors"
+                  buttonTitle="Select Dark Colors"
+                  title="Dark Colors"
                   id="modal24"
                   color="#004D40"
                   buttonTextColor="#fff"
