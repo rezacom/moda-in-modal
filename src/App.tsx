@@ -98,7 +98,7 @@ function App() {
                 <Modal
                   buttonTitle="Select other Colors"
                   title="other Colors"
-                  id="modal32"
+                  id="modal42"
                   color="#43A047"
                   buttonTextColor="#fff"
                 >
@@ -107,7 +107,7 @@ function App() {
                 <Modal
                   buttonTitle="Select other Colors"
                   title="other Colors"
-                  id="modal33"
+                  id="modal43"
                   color="#EC407A"
                   buttonTextColor="#fff"
                 >
@@ -116,7 +116,7 @@ function App() {
                 <Modal
                   buttonTitle="Select other Colors"
                   title="other Colors"
-                  id="modal34"
+                  id="modal44"
                   color="#FFA726"
                   buttonTextColor="#fff"
                 >
